@@ -1,0 +1,22 @@
+{
+  "name": "cryptaes",
+  "version": "1.0.0",
+  "description": "Encrypt, decrypt",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanRave/cryptaes.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "IvanRave",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IvanRave/cryptaes/issues"
+  },
+  "homepage": "https://github.com/IvanRave/cryptaes#readme"
+}
